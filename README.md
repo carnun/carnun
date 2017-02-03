@@ -1,7 +1,6 @@
 ---
 title: README
 permalink: index.html
-layout: page
 ---
 <ul>
   {% for post in site.posts %}
